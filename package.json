@@ -1,0 +1,15 @@
+{
+  "name": "send-to-kindle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "inarli",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.0.3",
+    "@postlight/mercury-parser": "^2.2.0"
+  }
+}
