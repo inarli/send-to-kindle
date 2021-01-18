@@ -1,6 +1,6 @@
 'use strict'
 
-let mercuryParser = require('@postlight/mercury-parser')
+const mercuryParser = require('@postlight/mercury-parser')
 
 class ContentParser{
 
